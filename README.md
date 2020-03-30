@@ -1,2 +1,3 @@
-# essamgouda97-hotmail.com
-Call of Duty: Assembly Microchip PIC16F887 game edition
+# General info
+Call of Duty: Assembly Microchip PIC16F887 game edition is created using assembmly language on a fairly simple board to further understand the assembly language in my final year during my Bachelor's degree.
+Assembly programming language is considered a low-level language compared to other programming languages such as C, C++, python … etc, and what differs these languages that assembly doesn’t differ much from a normal computer’s instruction set architecture. As a matter of fact, the commands in the assembly language map closely to the processor instructions that each command reflects a certain machine code in bits.
